@@ -1,0 +1,1 @@
+npx sequelize-auto -h localhost -d dvdrental -u postgres -x 98765432 -p 5432 --dialect postgres -o ./models4 -l es6

@@ -1,0 +1,8 @@
+Respuesta 2
+curl http://localhost:3000/api/v1/respuesta/2/368
+
+Respuesta 3
+curl http://localhost:3000/api/v1/respuesta/3/7
+
+Respuesta 4
+curl http://localhost:3000/api/v1/respuesta/4/A
