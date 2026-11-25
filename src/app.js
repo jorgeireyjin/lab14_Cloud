@@ -1,6 +1,7 @@
 import express from 'express';
 import dotenv from 'dotenv';
 import mainRouter from './routes/index.js';
+import cors from 'cors';
 
 // Cargar variables de entorno
 dotenv.config();
